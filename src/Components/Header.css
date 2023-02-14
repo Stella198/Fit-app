@@ -1,0 +1,39 @@
+.Header {
+    text-align: center;
+    font-weight: 600;
+    height: 45px;
+    border: 1px solid #4d4d4d;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+.logo-text{
+    background-color:#222 ;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    margin: 0px;
+}
+
+.header-nav-link{
+    background-color: #fff;
+    text-align: center;
+    color: black;
+    padding: 20px;
+    border-right: 1px solid #4d4d4d;
+    font-size: 15px;
+    text-decoration: none;
+    margin-bottom: 0px;
+}   
+
+.nav-nav-link:hover{
+    text-decoration:underline;
+
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+
+}

@@ -1,0 +1,58 @@
+.block{
+    background: url('/public/images/background.jpg') rgba(0, 0, 0, 0.7) no-repeat center center/cover;
+    text-align: center;
+    color: #fff;
+    min-height: 100%;
+    background-size: cover;
+    background-blend-mode: multiply;
+    font-size: 10px;
+
+}
+
+.title-text{
+       padding-top: 35px;
+       position: relative;
+       font-size: 20px;
+       font-weight: 700;
+       padding-bottom: 20px;
+       margin-bottom: 0px;
+   }
+
+ .book-button{
+       background-color:#fff;
+       color: white;
+       font-weight: 700;
+       padding: 10px 20px 10px 20px;
+       border-radius: 3px;
+       border-color: #fff white;
+       position:relative;
+       cursor: pointer;
+   }
+   
+.contact-form{
+    width: 400px;
+}
+label{
+    padding-bottom: 5px;
+    text-align: center;
+    display: block;
+}
+input{
+    text-align: center;
+    width: 500px;
+    height:20px ;
+    margin-bottom: 20px;
+    padding: 5px 10px 5px 10px;
+}
+.button-form{
+    color: #fff;
+    background-color:#373737;
+    font-weight:500px;
+    margin-top: 10px;
+    text-align: center;
+    width: 530px;
+    height:40px ;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
